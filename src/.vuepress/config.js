@@ -48,9 +48,6 @@ module.exports = {
           ]
         }
       ],
-      '/hinweisgeber/': {
-        title: 'Hilfe für Hinweisgeber'
-      },
       '/': []
     } ,
     nav: [

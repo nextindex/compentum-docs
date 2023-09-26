@@ -17,10 +17,6 @@ Wenn Sie noch neu bei compentum sind und den Umgang damit erlernen möchten, hel
 2. [Meldeportal erstellen](/hilfe/meldeportale.html#meldeportal-erstellen)
 3. [Verfahren bearbeiten](/hilfe/verfahren.html#verfahren-bearbeiten)
 
-## Für Hinweisgeber
-
-Wenn Sie ein Hinweisgeber sind, können Sie unter [Hilfe für Hinweisgeber](/hinweisgeber/) mehr Infomrationen zum einreichen einer Meldung oder zum öffnen einer Meldung finden.
-
 ## Support & Hilfe
 
 Falls Sie weitere Fragen haben, Fehler melden möchten oder Verbesserungsvorschläge haben, können Sie diese gerne über unser [Support Portal](https://nextindex.atlassian.net/servicedesk/customer/portal/6/group/-1) einreichen.
