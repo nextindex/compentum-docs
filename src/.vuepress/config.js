@@ -28,6 +28,7 @@ module.exports = {
     repo: '',
     editLinks: false,
     docsDir: '',
+    base: '/compentum-docs/',
     editLinkText: '',
     lastUpdated: false,
     sidebar: {
