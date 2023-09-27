@@ -1,31 +1,26 @@
-# Erste Schritte
+---
+aliases: [home, index]
+tags: []
+publish: true
+done: true
+---
 
-## Benutzerkonto erstellen
+# Start
 
-Sie können ein neues Benutzerkonto bei [compentum](https://compentum.de) direkt über die Webseite erstellen indem Sie auf die "Jetzt beginnen" Schaltfläche klicken oder direkt über diesen [Link](https://app.compentum.de/create-account)
+Willkommen bei der Dokumentation von [compentum](https://compentum.de). Hier finden Sie verschiedene Anleitungen und Hilfeseiten zum Umgang mit compentum.
 
-Vergewissern Sie sich bei der Eingabe der persönlichen Daten, dass Ihre E-Mail Adresse korrekt ist da Sie eine Bestätigungs E-mail bekommen um Ihre E-Mail Adresse zu verifizieren.
+## Erste Schritte
 
-Außerdem sollten Sie Ihr Passwort sicher aufbewahren, dafür nutzen Sie am besten einem Passwort-Manager.
-Später können Sie in Ihren Benutzereinstellungen auch die [Zwei-Faktor-Authentifizierung](/hilfe/persönliche-einstellungen.html#zwei-faktor-authentifizierung) aktivieren um ihr Benutzerkonto noch besser zu schützen.
+Wenn Sie noch neu bei compentum sind und den Umgang damit erlernen möchten, helfen Ihnen diese Anleitungen bei den ersten Schritten:
 
-::: tip
-Passwort Manager können dabei helfen sichere Passwörter zu wählen, die Sie sich nicht merken müssen.
-:::
+1. [Benutzerkonto erstellen](/hilfe/)
+2. [Meldeportal erstellen](/hilfe/meldeportale.html#meldeportal-erstellen)
+3. [Verfahren bearbeiten](/hilfe/verfahren.html#verfahren-bearbeiten)
 
-Wenn Sie Ihr Benutzerkonto erstellt haben, können Sie im nächsten Schritt den [Beschäftigungsgeber erstellen](/hilfe/#beschaftigungsgeber-erstellen).
+## Support & Hilfe
 
-## Beschäftigungsgeber erstellen
+Falls Sie weitere Fragen haben, Fehler melden möchten oder Verbesserungsvorschläge haben, können Sie diese gerne über unser [Support Portal](https://nextindex.atlassian.net/servicedesk/customer/portal/6/group/-1) einreichen.
 
-Um einen Beschäftigungsgeber zu erstellen, müssen Sie den Namen des Beschäftigungsgebers ausfüllen und ein [Wiederherstellungspasswort](/hilfe/verschlüsselung.html#wiederherstellungspasswort-2) wählen. 
+## Sicherheitsschwachstelle melden
 
-::: tip 
-Achten Sie bei der Wahl Ihres Wiederherstellungspasswortes darauf ein sicheres Passwort zu wählen.
-:::
-
-Falls Sie durch einen [Partner]() einen Promo-Code erhalten haben, können Sie diesen auch angeben. Sie können dies auch zu einem späteren Zeitpunkt machen, wenn Sie ein [Abonnement abschließen](/hilfe/abonnement.html#abonnement-abschließen).
-
-Nach dem Erstellen des Beschäftigungsgebers, müssen Sie das [Emergency-Kit](/hilfe/verschlüsselung.html#emergency-kit) herunterladen um den Prozess abzuschließen. Danach ist Ihre compentum Instanz bereitgestellt und Sie werden zur [Startseite](/hilfe/user-interface.html#startseite) weitergeleitet.
-
-Erstellen Sie im nächsten Schritt ein Meldeportal um Ihren Mitarbeitern einen Meldekanal zur Verfügung zu stellen über welchen Meldungen eingereicht werden können. [Wie erstelle ich ein Meldeportal?](/hilfe/meldeportale.html#meldeportal-erstellen)
-
+Wenn Sie eine Schwachstelle in compentum gefunden haben, können Sie diese responsible per E-Mail melden. Alle wichtigen Informationen dazu finden Sie in der [security.txt](https://compentum.de/.well-known/security.txt)

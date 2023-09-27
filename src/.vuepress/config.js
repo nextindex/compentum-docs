@@ -31,6 +31,7 @@ module.exports = {
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
+    logo: '/logo.svg',
     sidebar: {
       '/hilfe/': [
         {
@@ -39,6 +40,7 @@ module.exports = {
           sidebarDepth: 3,
           children: [
             '',
+            'erste-schritte',
             'verfahren',
             'konfiguration',
             'meldeportale',
