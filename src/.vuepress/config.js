@@ -56,6 +56,7 @@ module.exports = {
     nav: [
       { text: 'Hilfe', link: '/hilfe/', activeMatch: '^/hilfe/' },
       { text: 'Hinweisgeber', link: '/hinweisgeber/', activeMatch: '^/hinweisgeber/' },
+      { text: 'Support Portal', link: 'https://nextindex.atlassian.net/servicedesk/customer/portal/6/group/-1' },
     ]
   },
 
