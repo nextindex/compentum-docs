@@ -7,7 +7,7 @@ module.exports = {
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
   description: 'compentum Hilfeseiten für Benutzer',
-  base: '/compentum-docs/',
+  base: '/docs/',
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
