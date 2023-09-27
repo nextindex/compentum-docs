@@ -30,6 +30,7 @@ module.exports = {
     editLinks: false,
     docsDir: '',
     editLinkText: '',
+    smoothScroll: true,
     lastUpdated: false,
     logo: '/logo.svg',
     sidebar: {
