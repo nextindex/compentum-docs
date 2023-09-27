@@ -38,7 +38,7 @@ module.exports = {
         {
           title: 'Hilfe',
           collapsable: false,
-          sidebarDepth: 3,
+          sidebarDepth: 1,
           children: [
             '',
             'erste-schritte',
@@ -67,5 +67,11 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
+    ['vuepress-plugin-right-anchor', {
+      expand: {
+        trigger: 'click',
+        clickModeDefaultOpen: true
+      }
+    }]
   ]
 }
