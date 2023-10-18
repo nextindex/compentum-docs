@@ -43,7 +43,7 @@ Eine "Authenticator App" ist eine Softwareanwendung, die für die Zwecke der Zwe
 ### Andere 2FA-Verfahren
 ---
 
-Aktuell unterstützt compentum nur eine [Authenticator Applikation](hilfe/persönliche-einstellungen.html#zwei-faktor-authentifizierung). Wenn Sie jedoch alternative Möglichkeiten wie SMS oder Security Key brauchen, können Sie gerne über unser [Support Portal](https://nextindex.atlassian.net/servicedesk/customer/portal/6/group/-1) eine Anfrage stellen.
+Aktuell unterstützt compentum nur eine [Authenticator Applikation](/persönliche-einstellungen.html#zwei-faktor-authentifizierung). Wenn Sie jedoch alternative Möglichkeiten wie SMS oder Security Key brauchen, können Sie gerne über unser [Support Portal](https://nextindex.atlassian.net/servicedesk/customer/portal/6/group/-1) eine Anfrage stellen.
 
 ### Einrichtung
 ---
