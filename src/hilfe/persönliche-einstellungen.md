@@ -4,7 +4,7 @@
 
 Passen Sie Ihre persönlichen Details an indem Sie zu **Persönliche Einstellungen** navigieren. Dort haben Sie die Möglichkeit Ihren Vor- und Nachnamen, sowie Ihre E-Mail-Adresse anzupassen. Übernehmen Sie die Einstellungen mit einem Klick auf **Speichern**.
 
-## E-Mail Benachrichtigungen
+## E-Mail-Benachrichtigungen
 
 E-Mail-Benachrichtigungen ermöglichen es den Anwendern, wichtige Informationen, Updates und Benachrichtigungen auf effiziente und zeitnahe Weise zu erhalten.
 
