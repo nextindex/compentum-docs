@@ -103,8 +103,29 @@ Ihr persönliches Verfahrens-Passwort ist die zentrale Komponente in einem siche
 
 Bitte beachten Sie, dass die Entschlüsselung, Einsicht und Beantwortung von Rückfragen im Zusammenhang mit vertraulichen Daten **nur** mit dem für Sie generierten Verfahrens-Passwort möglich ist. Durch die sorgfältige Einhaltung dieser Sicherheitsmaßnahmen gewährleisten Sie den Schutz Ihrer persönlichen Informationen und tragen zur Integrität des gesamten Meldeprozesses bei.
 
+## Status eines Verfahrens
+
+Innerhalb der Verfahrensbearbeitung haben Sie die Möglichkeit den Status eines Verfahrens anzupassen. Sobald der Status geändert ist, wird ein Hinweisgeber per E-Mail darüber informiert.
+Neu eingereichte Hinweise erhalten automatisch den Status „Neu“.
+Beim Ändern des Status öffnet sich ein Fenster und Sie haben die Möglichkeit eine Nachricht an den Hinweisgeber zu übermitteln. Hierbei können Sie zwischen Antwortvorlagen wählen oder eine eigene Nachricht formulieren.
+
+Ändern des Status:
+
+1. Öffnen Sie ein Verfahren
+2. Oben rechts klicken Sie auf das Drop-Down Menü „Status“
+3. Wählen Sie den gewünschten Status aus
+
+## Nachrichtenvorlagen
+
+Nutzen Sie Antwortvorlagen um bereits vordefinierte Texte für Ihre Nachrichte zu verwenden und den Arbeitsaufwand zu minimieren.
+
+In der linken Navigationsleiste unter Konfiguration und Antwortvorlage haben Sie die Möglichkeit neue Vorlagen zu erstellen. Diese lassen sich nachträglich bearbeiten, Sie können entscheiden ob Vorlagen angezeigt werden sollen steuern oder auch wieder entfernen.
+
+Antwortvorlagen sind nützlich beim Ändern eines Verfahrensstatus oder bei der direkten Kommunikation mit einem Hinweisgeber.
 
 
+## Kommunikation Hinweisgeber / Interne Kommunikation
 
+Sie möchten einem Hinweisgeber antworten oder haben noch Rückfragen zu einem eingereichten Hinweis? Öffnen Sie dafür ein Verfahren und klicken auf „antworten“ und es öffnet sich ein Nachrichtendfeld. Sie haben nun die Möglichkeit eine bereits vordefinierten Antwortvorlage zu wählen oder eine eigene Nachricht zu formulieren.
 
-
+Sollten mehrere Mitarbeiter mit dem Hinweisgebersystem arbeiten, lässt sich ebenfalls die interne Kommunikation damit abdecken. Wechseln Sie dafür per Klick auf „Interne Kommunikation“ und hinterlegen Sie Verfahrensrelevante Notizen, Anmerkungen und Informationen. Interne Notizen werden nur von Ihnen und Ihren Mitarbeitern gesehen und sind für Hinweisgeber nicht sichtbar.
