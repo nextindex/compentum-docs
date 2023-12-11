@@ -48,7 +48,8 @@ module.exports = {
             'persönliche-einstellungen',
             'abonnement',
             'verschlüsselung',
-            'user-interface'
+            'user-interface',
+            'export'
           ]
         }
       ],
