@@ -13,7 +13,7 @@ Im Gegensatz zu dem Einzelexport eines Verfahrenes, welches als PDF geliefert wi
 
 ## Export beantragen
 
-Einen Export Ihrer Daten können Sie unter den persönlichen Einstellungen beantragen. Der export nimmt etwas Zeit in Anspruch und sobald dieser zur Verfügung steht, bekommen Sie eine E-Mail und können den Export als Archiv herunterladen.
+Einen Export Ihrer Daten können Sie unter den persönlichen Einstellungen beantragen. Der Export nimmt etwas Zeit in Anspruch und sobald dieser zur Verfügung steht, bekommen Sie eine E-Mail und können den Export als Archiv herunterladen.
 
 
 ## Inhalt des Exports
