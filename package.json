@@ -22,5 +22,6 @@
   "dependencies": {
     "@vuepress/plugin-back-to-top": "^1.9.10",
     "@vuepress/plugin-medium-zoom": "^1.9.10"
-  }
+  },
+  "engines": { "node": "^16" }
 }
